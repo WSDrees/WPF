@@ -3,13 +3,16 @@
  */
 
 //Original price
-
+var originalPrice = prompt("What is the original price of the item?");
 
 //Discount percentage
+var discountPercent = prompt("What is the discount percentage?");
 
 //Description of item
+var itemDesc = prompt("What is the item description?");
 
 //Sales tax percentage
+var salesTax = prompt("How much is sales tax?");
 
 //Price of the item with tax
 
