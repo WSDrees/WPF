@@ -27,4 +27,4 @@ var totalPrice = parseFloat(priceAfterDiscount + priceWithTax);
 //Output
 //"Your X was originally $X, but after a X% discount, it is now $X without tax, and $X with tax
 console.log("Your " + itemDesc + " was originally $" + originalPrice + ", but after a " + discountPercent + "%, it is now $"
-            + priceAfterDiscount.toFixed(2) + " without tax, and $" + totalPrice.toFixed(2) + " with tax");
+            + priceAfterDiscount.toFixed(2) + " without tax, and $" + totalPrice.toFixed(2) + " with tax.");
