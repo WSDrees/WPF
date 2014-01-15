@@ -11,4 +11,5 @@ groceryWeeks[3] = parseFloat(prompt("Week total grocery bill:"));
 groceryWeeks[4] = parseFloat(prompt("Week total grocery bill:"));
 
 //You have spent a total of $x on groceries over 5 weeks. That is an average of $x per week.
-console.log("You have spent a total of $" + parseFloat(groceryWeeks) + " on groceries over 5 weeks. That is an average of $" + parseFloat(groceryWeeks)/5 + " per week.");
+console.log("You have spent a total of $" + parseFloat(groceryWeeks) +
+            " on groceries over 5 weeks. That is an average of $" + parseFloat(groceryWeeks)/5 + " per week.");
