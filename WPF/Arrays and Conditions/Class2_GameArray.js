@@ -13,7 +13,7 @@ world[6]=[];
 world[7]=[];
 world[8]=[];
 world[9]=[];
-
+//    x, y
 world[0][0] = "Water";
 world[0][1] = "Water";
 world[0][2] = "Water";
@@ -125,6 +125,21 @@ world[9][8] = "Desert";
 world[9][9] = "Desert";
 
 
+//Step through each element of the array World and load the data into a formatted string and display the values
+var outputString = "";
+
+for(outer=0; outer<world.length; outer++)
+{
+   for(inner=0; inner<world[outer].length; inner++)
+   {
+        outputString=outputString+world[outer][inner]+"\t";
+   }
+   outputString+="\n";      //Same as outputString=outputString+"\n";
+}
+console.log(outputString);
+
+//console.log(Math.random());  //Math.random() syntax
+
 //
 //if(world[0][0]=="Water"){
 //    console.log("Water");
@@ -178,21 +193,16 @@ world[9][9] = "Desert";
 //}
 
 //console.log(world[0][0]);
-var rowString = "";
-rowString = rowString + "\t";
-
-for(innerItt = 0; innerItt<world.length; innerItt++)
-{
-    rowString = rowString+world[0][innerItt]+"\t\n";
-
-    for(outerItt = 0; outerItt<world.length; outerItt++)
-    {
-        rowString = rowString+world[outerItt][0]+"\t";
-    }
-}
-
-console.log(rowString, rowString);
-
+//var rowString = "";
+//rowString = rowString + "\t";
+//
+//for(innerItt = 0; innerItt<world.length; innerItt++)
+//{
+//    rowString = rowString+world[0][innerItt]+"\t\n";
+//
+//}
+//
+//console.log(rowString);
 
 //for(i=0;i<4;i++)
 //{
