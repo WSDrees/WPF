@@ -3,13 +3,23 @@
  */
 
 //An array with five weekly grocery totals
-var groceryWeeks = ["week1", "week2", "week3", "week4", "week5"]; //Index 0,1,2,3,4
-groceryWeeks[0] = parseFloat(prompt("Week total grocery bill:"));
-groceryWeeks[1] = parseFloat(prompt("Week total grocery bill:"));
-groceryWeeks[2] = parseFloat(prompt("Week total grocery bill:"));
-groceryWeeks[3] = parseFloat(prompt("Week total grocery bill:"));
-groceryWeeks[4] = parseFloat(prompt("Week total grocery bill:"));
+var groceryWeeks = [5];
+//Prompt the user to input weekly amounts of grocery bills
+groceryWeeks[0] = parseFloat(prompt("How much was your weekly grocery bill?"));
+groceryWeeks[1] = parseFloat(prompt("How much was your weekly grocery bill?"));
+groceryWeeks[2] = parseFloat(prompt("How much was your weekly grocery bill?"));
+groceryWeeks[3] = parseFloat(prompt("How much was your weekly grocery bill?"));
+groceryWeeks[4] = parseFloat(prompt("How much was your weekly grocery bill?"));
 
-//You have spent a total of $x on groceries over 5 weeks. That is an average of $x per week.
-console.log("You have spent a total of $" + parseFloat(groceryWeeks) +
-            " on groceries over 5 weeks. That is an average of $" + parseFloat(groceryWeeks)/5 + " per week.");
+//Add total amount of grocery bills
+var totalAmount = parseFloat(groceryWeeks[0] + groceryWeeks[1] + groceryWeeks[2] + groceryWeeks[3] + groceryWeeks[4]);
+
+//Find the average amount spend on grocery bills
+var averageAmount = parseFloat(totalAmount/5);
+
+//You have spent a total of $X on groceries over 5 weeks. That is an average of $X per week.
+console.log("You have spent a total of $" +totalAmount + " on groceries over 5 weeks." +
+            " That is an average of $" +averageAmount+ " per week.");
+
+
+
