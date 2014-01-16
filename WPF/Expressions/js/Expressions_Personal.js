@@ -14,5 +14,10 @@ var carPayment = parseFloat(prompt("How much is your monthly car payment"));
 var creditCard = parseFloat(prompt("How much is your monthly credit card payment?"));
 var groceries = parseFloat(prompt("How much is your monthly grocery bill?"));
 var misc = parseFloat(prompt("How much a month do you spend on miscellaneous items?"));
+var totalBills = parseFloat(rent + utilities + cable + carInsurance + carPayment + creditCard + groceries + misc);
+var totalSavings = parseFloat(userPay - totalBills);
 
-//
+//User Output
+//You make $X a month, and your monthly bills are $X, therefore, you have $X left over each month.
+console.log("You make $" + userPay + " a month, and your monthly bills are $" + totalBills +
+            " therefore, you have $" + totalSavings + " left over each month.");
