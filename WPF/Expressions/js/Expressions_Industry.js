@@ -6,31 +6,34 @@
 //Given how many weeks, days, hours, minutes, and seconds in a year.
 //Information from https://support.google.com/websearch/answer/3284611?hl=en#unitconverter
 //User Input
-var workHours = parseInt(prompt("How many hours a week do you spend at work?"));
-var workTravel = parseInt(prompt("How many hours a week do you spend traveling to and from work"));
-var sleepTime = parseInt(prompt("How many hours a week do you sleep?"));
-var internetTime = parseInt(prompt("How many hours a week do you spend on the internet?"));
-var phoneTime = parseInt(prompt("How many hours a week do you spend on your phone?"));
-var week = 1;
-var day = 7;
-var hours = 168;
-var minutes = 10080;
-var seconds = 604800;
+var workHours = parseFloat(prompt("How many hours a day do you spend at work?"));
+var workTravel = parseFloat(prompt("How many hours a day do you spend traveling to and from work"));
+var sleepTime = parseFloat(prompt("How many hours a day do you sleep?"));
+var internetTime = parseFloat(prompt("How many hours a day do you spend on the internet?"));
+var phoneTime = parseFloat(prompt("How many hours a day do you spend on your phone?"));
+
+
+//var week = 1;
+//var day = 7;
+//var hours = 24;
+//var minutes = 1400;
+//var seconds = 86400;
 
 //Doing the Math
-//7 days in a week, 24 hours in 1 day, 60 minutes in an hour, 60 seconds in a minute
+//7 days in a week (5 working days), 24 hours in 1 day, 60 minutes in an hour, 60 seconds in a minute
+var totalWorkHours = parseFloat(workHours*5); //Only 5 work days
+var totalTravelHours = parseFloat(workTravel*5); //Only 5 work days
+var totalSleepHours = parseFloat(sleepTime*7);  //7 days in a week
+var totalInternetTime = parseFloat(internetTime*7); //7 days in a week
+var totalPhoneTime = parseFloat(phoneTime*7);   //7 days in a week
+
 //Convert hours to weeks
+
 //Every 168 hours equals 1 week
-
-
-
 //Convert hours to days
 //Every 24 hours equals 1 day
-
-
 //Convert hours to minutes
 //Every 1 hour equals 60 minutes
-
 //Convert hours to seconds
 // Every 1 hour equals 3600 seconds
 
