@@ -23,15 +23,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Expressions_Personal.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Expressions/js/Expressions_Personal.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="25" selection-start="29" selection-end="29" vertical-scroll-proportion="0.021097047" vertical-offset="0" max-vertical-offset="711">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Expressions/Index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -41,10 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Expressions_Industry.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Expressions_Industry.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Expressions/js/Expressions_Industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="25" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+            <state line="53" column="12" selection-start="2094" selection-end="2094" vertical-scroll-proportion="1.1181434" vertical-offset="0" max-vertical-offset="885">
               <folding />
             </state>
           </provider>
@@ -85,8 +76,8 @@
         <option value="$PROJECT_DIR$/Expressions_worksheet/Index.html" />
         <option value="$PROJECT_DIR$/Expressions_worksheet/js/Average_shopping_bill.js" />
         <option value="$PROJECT_DIR$/Expressions/Index.html" />
-        <option value="$PROJECT_DIR$/Expressions/js/Expressions_Industry.js" />
         <option value="$PROJECT_DIR$/Expressions/js/Expressions_Personal.js" />
+        <option value="$PROJECT_DIR$/Expressions/js/Expressions_Industry.js" />
       </list>
     </option>
   </component>
@@ -631,6 +622,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions/js/Expressions_Personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="25" selection-start="29" selection-end="29" vertical-scroll-proportion="0.021097047" vertical-offset="0" max-vertical-offset="711">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Expressions/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="30" selection-end="30" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="255">
@@ -640,14 +638,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions/js/Expressions_Industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="25" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions/js/Expressions_Personal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="25" selection-start="29" selection-end="29" vertical-scroll-proportion="0.021097047" vertical-offset="0" max-vertical-offset="711">
+        <state line="53" column="12" selection-start="2094" selection-end="2094" vertical-scroll-proportion="1.1181434" vertical-offset="0" max-vertical-offset="885">
           <folding />
         </state>
       </provider>
