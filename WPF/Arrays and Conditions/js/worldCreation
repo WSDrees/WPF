@@ -1,3 +1,18 @@
+//var world =[["Water", "Water", "Water", "Water", "Forest"]]
+//    [["Water", "Forest", "Dessert"]]
+//    [["Water", "Forest", "Dessert"]]
+//    [["Water", "Forest", "Dessert"]]
+//    [["Water", "Forest", "Dessert"]]
+//    [["Water", "Forest", "Dessert"]]
+//    [["Water", "Forest", "Dessert"]]
+//    [["Water", "Forest", "Dessert"]]
+//    [["Water", "Forest", "Dessert"]]
+//    [["Water", "Forest", "Dessert"]]
+
+
+//"Water"
+//"Forest"
+//"Desert"
 
 var world = [];
 world[0]=[];
