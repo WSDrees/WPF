@@ -23,53 +23,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="movement.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/movement.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="59" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="monsters.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/monsters.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="32" selection-start="941" selection-end="941" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
-              <folding>
-                <element signature="n#!!doc;n#makeMonster#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="treasure.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/treasure.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="41" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1425">
-              <folding>
-                <element signature="e#0#41#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="statSheet.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/statSheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="12" selection-start="661" selection-end="661" vertical-scroll-proportion="0.37974682" vertical-offset="0" max-vertical-offset="855">
+            <state line="20" column="43" selection-start="696" selection-end="696" vertical-scroll-proportion="0.37974682" vertical-offset="0" max-vertical-offset="855">
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="worldCreation" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/worldCreation">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="16" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2130">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -77,7 +37,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Arrays and Conditions/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="7" selection-start="288" selection-end="288" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="285">
+            <state line="5" column="45" selection-start="181" selection-end="181" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -108,7 +68,6 @@
         <option value="$PROJECT_DIR$/Conditionals/Index.html" />
         <option value="$PROJECT_DIR$/Conditionals/js/Conditionals_Industry.js" />
         <option value="$PROJECT_DIR$/Conditionals/js/Conditionals_Wacky.js" />
-        <option value="$PROJECT_DIR$/Expressions/js/Expressions_Wacky.js" />
         <option value="$PROJECT_DIR$/Expressions_worksheet/js/Discounts.js" />
         <option value="$PROJECT_DIR$/Intro to Variables/index.html" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/Class2_GameArray.js" />
@@ -125,13 +84,14 @@
         <option value="$PROJECT_DIR$/Arrays and Conditions/js/treasure.js" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/js/worldCreation" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/index.html" />
+        <option value="$PROJECT_DIR$/Expressions/js/Expressions_Wacky.js" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/js/statSheet.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1226" />
+    <option name="width" value="1440" />
     <option name="height" value="808" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -280,6 +240,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Expressions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Arrays and Conditions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -398,14 +376,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1226" height="808" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="808" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17944536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15277778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -569,11 +547,6 @@
         <state line="3" column="0" selection-start="42" selection-end="42" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions/js/Expressions_Wacky.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="670" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Wacky.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="693" />
@@ -624,11 +597,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions/js/Expressions_Personal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="25" selection-start="29" selection-end="29" vertical-scroll-proportion="0.021097047" vertical-offset="0" max-vertical-offset="711" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Misc/Intro to Variables/Class1_Variables.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="25" selection-start="193" selection-end="193" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570" />
@@ -648,15 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="30" selection-end="30" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="255">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions/js/Expressions_Industry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.06329114" vertical-offset="0" max-vertical-offset="711">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -683,6 +642,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/treasure.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="41" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1425">
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions/js/Expressions_Personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="25" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="45" selection-start="181" selection-end="181" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions/js/Expressions_Industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/movement.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="59" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
@@ -690,9 +679,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/index.html">
+    <entry file="file://$PROJECT_DIR$/Expressions/js/Expressions_Wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="288" selection-end="288" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="285">
+        <state line="5" column="0" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
           <folding />
         </state>
       </provider>
@@ -706,18 +695,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/treasure.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="41" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1425">
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/statSheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="12" selection-start="661" selection-end="661" vertical-scroll-proportion="0.37974682" vertical-offset="0" max-vertical-offset="855">
+        <state line="20" column="43" selection-start="696" selection-end="696" vertical-scroll-proportion="0.37974682" vertical-offset="0" max-vertical-offset="855">
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
