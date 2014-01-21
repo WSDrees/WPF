@@ -5,17 +5,27 @@
 
 //var type = 0;
 var monsterName = prompt("Name the monster");    //User provides monster name
-var str = 0;                                     //Strength
-var dex = 1;                                     //Dexterity
-var con = 2;                                     //Charisma
-var cha = 3;                                     //Constitution
-var wis = 4;                                     //Wisdom
-var int = 5;                                     //Intelligence
+var exp = 0;                                     //Experience
+var str = 1;                                     //Strength
+var dex = 2;                                     //Dexterity
+var con = 3;                                     //Charisma
+var cha = 4;                                     //Constitution
+var wis = 5;                                     //Wisdom
+var int = 6;                                     //Intelligence
 
 var min = 0;
 var max = 1;
 
-var stats=[[3,18],[3,18],[3,18],[3,18],[3,18],[3,18]];
+var stats=[[50,100],[3,18],[3,18],[3,18],[3,18],[3,18],[3,18]];
+
+//Monster name from user
+console.log(monsterName);
+
+//Random experience stat
+console.log("Experience: \t" + (Math.floor(
+    (stats[exp][max] - stats[exp][min])
+        *Math.random())
+    +stats[exp][min]));
 
 //Random stat for Strength
 console.log("Strength: \t\t" + (Math.floor(
