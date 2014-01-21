@@ -1,5 +1,5 @@
 /**
- * Created by Steve Drees on 1/15/14.
+ * Created by Steve Drees on 1/15/14, Assignment: Expressions_Personal.
  */
 
 //Creating a budget
