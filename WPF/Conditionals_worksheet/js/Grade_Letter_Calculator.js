@@ -10,16 +10,16 @@
 //C  = 73 - 75%
 //D  = 70 - 72%
 //F  = 0  - 69%
+    
 //User input
-
-var studentNumberGrade = parseInt(prompt("What was your average for your class? (0 - 100)"));        //User inputs grade
-var a = "A+";
-var b = "A";
-var c = "B+";
-var d = "B";
-var e = "C+";
-var f = "C";
-var g = "D";
+var studentNumberGrade = parseInt(prompt("What was your average for your class? (0 - 100)"));        //User inputs grade percentage
+var a = "A+";                                                                                        //Letter grade
+var b = "A";                                                                                         //Letter grade
+var c = "B+";                                                                                        //Letter grade
+var d = "B";                                                                                         //Letter grade
+var e = "C+";                                                                                        //Letter grade
+var f = "C";                                                                                         //Letter grade
+var g = "D";                                                                                         //Letter grade
 
 //Output
 //You have X%, which mean you have earned a(n) X in the class
