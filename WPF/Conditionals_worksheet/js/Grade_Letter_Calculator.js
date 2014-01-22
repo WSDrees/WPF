@@ -10,7 +10,7 @@
 //C  = 73 - 75%
 //D  = 70 - 72%
 //F  = 0  - 69%
-    
+
 //User input
 var studentNumberGrade = parseInt(prompt("What was your average for your class? (0 - 100)"));        //User inputs grade percentage
 var a = "A+";                                                                                        //Letter grade
