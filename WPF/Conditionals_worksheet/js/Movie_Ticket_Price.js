@@ -11,9 +11,9 @@ var time = parseInt(prompt("What time is is?"));
 var amOrPm = (prompt("Is it morning or afternoon (M = morning, A = Afternoon)")).toUpperCase();
 
 //Output: The ticket price is X
-if(age >= 55 || age <= 10){
+if(age >= 55 || age <= 10){                                             //Age
     console.log("The ticket price is " +discountTicketPrice);
-}else if(time >= 3 && time <= 5 && amOrPm == "A"){
+}else if(time >= 3 && time <= 5 && amOrPm == "A"){                      //Time
     console.log("The ticket price is " +discountTicketPrice);
 }else
     console.log("The ticket price is " + ticketPrice);
