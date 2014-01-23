@@ -1,10 +1,10 @@
 /**
- * Created by wsdrees on 1/17/14.
+ * Created by Steve Drees on 1/17/14.
  */
 
-//var monsterArray=["Troll" , "Kobold" , "Merman"];
+var monsterArray=["Troll" , "Kobold" , "Merman"];
 
-//Trolls = Forests, Kobolds = Desert, Merman = water
+//Trolls > Forests, Kobolds > Desert, Merman > water
 
 //Pass in the location and a random number
 function makeMonster(landType, randomNumber)
@@ -33,14 +33,14 @@ function makeMonster(landType, randomNumber)
     }
     else
     {
-        return ""
+        return "";
     }
 }
 
 //Reference world position
-
-
-console.log(makeMonster("Forest",.2));
-console.log(makeMonster("Desert",.2));
-console.log(makeMonster("Water",.2));
-console.log(makeMonster("",.2));
+//
+//
+//console.log(makeMonster("Forest",.2));
+//console.log(makeMonster("Desert",.2));
+//console.log(makeMonster("Water",.2));
+//console.log(makeMonster("",.2));

@@ -71,7 +71,7 @@ world[3][8] = "Desert";
 world[3][9] = "Desert";
 
 world[4][0] = "Water";
-world[4][1] = "Forest";
+world[4][1] = "Dungeon";
 world[4][2] = "Forest";
 world[4][3] = "Forest";
 world[4][4] = "Forest";
@@ -116,7 +116,7 @@ world[7][9] = "Desert";
 
 world[8][0] = "Forest";
 world[8][1] = "Forest";
-world[8][2] = "Forest";
+world[8][2] = "Dungeon";
 world[8][3] = "Forest";
 world[8][4] = "Forest";
 world[8][5] = "Forest";
@@ -135,3 +135,66 @@ world[9][6] = "Desert";
 world[9][7] = "Desert";
 world[9][8] = "Desert";
 world[9][9] = "Desert";
+
+
+function DungeonGenerator(worldArray){
+    var dungeonX1 = 0;
+    var dungeonX2 = 0;
+    var dungeonY1 = 0;
+    var dungeonY2 = 0;
+    var firstVsSecondDungeonInstance = true;
+    var completedWorld = [];
+    completedWorld[0] = worldArray;                                 //Layer 1 (10x10)
+    completedWorld[1] = [];
+    completedWorld[2] = [];
+    completedWorld[3] = [];
+    completedWorld[4] = [];
+    completedWorld[5] = [];
+
+
+for(i=0; i < worldArray.length; i++){
+    for(j=0; j < worldArray[i].length; j++){
+        completedWorld[2][i][j] = makeMonster(completedWorld[0][i][j], Math.random());
+        if(worldArray[i][j] == "Dungeon" && firstVsSecondDungeonInstance == true){
+            dungeonX1 = i;
+            dungeonY1 = j;
+            firstVsSecondDungeonInstance = false;
+        } else if(worldArray[i][j] == "Dungeon"){
+            dungeonX2 = i;
+            dungeonY2 = j;
+        }
+    }
+  }
+
+for(i = 0; i < worldArray.length; i++){
+    completedWorld[1][i]= [];                                           //Layer 2 (10x10x2)
+    completedWorld[2][i]= [];                                           //Layer 3 (10x10x3)
+    completedWorld[3][i]= [];                                           //Layer 4 (10x10x4)
+    completedWorld[4][i]= [];                                           //Layer 5 (10x10x5)
+    completedWorld[5][i]= [];                                           //Layer 6 (10x10x6)
+    
+    for(j = 0; j < worldArray[i].length; j++){
+    var randomWorldSeed = Math.random();                                //Random value
+        //Cave (1/3), lave (1/3), dirt (1/3), ladder on dungeon squares
+        if ((i == dungeonX1 && j == dungeonY1) || (i == dungeonX2 && j == dungeonY2)){
+            completedWorld[1][i][j] = "Ladder";
+
+        } else if (randomWorldSeed <= 1/3){
+            completedWorld[1][i][j] = "Caves";
+
+        } else if (randomWorldSeed <= 2/3){
+            completedWorld[1][i][j] = "Lava";
+
+        } else {
+            completedWorld[1][i][j] = "Dirt";
+        }
+
+    }
+ }
+    return completedWorld;
+
+}
+
+var twoLayerWorld = DungeonGenerator(world);
+console.log(twoLayerWorld[0]);
+console.log(twoLayerWorld[1]);
