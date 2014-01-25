@@ -23,19 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Conditionals_Industry.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Industry.js">
+      <file leaf-file-name="Conditionals_Wacky.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="1" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.47142857" vertical-offset="0" max-vertical-offset="700">
+            <state line="51" column="30" selection-start="1795" selection-end="1795" vertical-scroll-proportion="0.15611814" vertical-offset="654" max-vertical-offset="1365">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conditionals_Industry.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Industry.html">
+      <file leaf-file-name="Movie_Ticket_Price.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/Movie_Ticket_Price.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="7" selection-start="138" selection-end="138" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+            <state line="18" column="54" selection-start="862" selection-end="862" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="360">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Conditionals_Wacky.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Wacky.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="7" selection-start="135" selection-end="135" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -81,7 +90,6 @@
         <option value="$PROJECT_DIR$/Conditionals_worksheet/js/Movie_Ticket_Price.js" />
         <option value="$PROJECT_DIR$/Conditionals/Conditionals_Industry.html" />
         <option value="$PROJECT_DIR$/Conditionals/Conditionals_Wacky.html" />
-        <option value="$PROJECT_DIR$/Conditionals/js/Conditionals_Wacky.js" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/js/monsters.js" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/index.html" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/js/display.js" />
@@ -90,13 +98,14 @@
         <option value="$PROJECT_DIR$/Arrays and Conditions/js/statSheet.js" />
         <option value="$PROJECT_DIR$/Conditionals/js/Conditionals_Personal.js" />
         <option value="$PROJECT_DIR$/Conditionals/js/Conditionals_Industry.js" />
+        <option value="$PROJECT_DIR$/Conditionals/js/Conditionals_Wacky.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="810" />
+    <option name="height" value="808" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -285,6 +294,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -295,23 +312,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -350,7 +359,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="810" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -365,11 +374,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -556,19 +565,9 @@
         <state line="29" column="105" selection-start="1135" selection-end="1135" vertical-scroll-proportion="0.6304348" vertical-offset="0" max-vertical-offset="690" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/Movie_Ticket_Price.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="54" selection-start="862" selection-end="862" vertical-scroll-proportion="0.37868163" vertical-offset="0" max-vertical-offset="713" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="41" selection-start="71" selection-end="71" vertical-scroll-proportion="0.06512301" vertical-offset="0" max-vertical-offset="691" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Wacky.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="41" selection-start="71" selection-end="71" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Personal.html">
@@ -581,95 +580,83 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="713" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Wacky.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="20" selection-start="644" selection-end="644" vertical-scroll-proportion="0.27349228" vertical-offset="0" max-vertical-offset="750">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/treasure.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1455">
-          <folding />
-        </state>
+        <state line="8" column="14" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1455" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/monsters.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="24" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-          <folding />
-        </state>
+        <state line="32" column="24" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/display.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="1" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <folding />
-        </state>
+        <state line="20" column="1" selection-start="569" selection-end="569" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/worldCreation">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="2190" max-vertical-offset="3030">
-          <folding />
-        </state>
+        <state line="40" column="0" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0" vertical-offset="2190" max-vertical-offset="3030" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/movement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="49" selection-start="881" selection-end="881" vertical-scroll-proportion="0.53724927" vertical-offset="0" max-vertical-offset="698">
-          <folding />
-        </state>
+        <state line="25" column="49" selection-start="881" selection-end="881" vertical-scroll-proportion="0.53724927" vertical-offset="0" max-vertical-offset="698" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/statSheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="189" selection-end="189" vertical-scroll-proportion="0.10744986" vertical-offset="30" max-vertical-offset="1020">
-          <folding />
-        </state>
+        <state line="7" column="14" selection-start="189" selection-end="189" vertical-scroll-proportion="0.10744986" vertical-offset="30" max-vertical-offset="1020" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="12" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="3" column="12" selection-start="93" selection-end="93" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/Celsius_to_Fahrenheit_converter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="58" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
+        <state line="14" column="58" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/Grade_Letter_Calculator.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="24" selection-start="869" selection-end="869" vertical-scroll-proportion="0.38990182" vertical-offset="7" max-vertical-offset="720">
-          <folding />
-        </state>
+        <state line="19" column="24" selection-start="869" selection-end="869" vertical-scroll-proportion="0.38990182" vertical-offset="7" max-vertical-offset="720" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="249" selection-end="249" vertical-scroll-proportion="0.2394775" vertical-offset="0" max-vertical-offset="689">
-          <folding />
-        </state>
+        <state line="11" column="0" selection-start="249" selection-end="249" vertical-scroll-proportion="0.2394775" vertical-offset="0" max-vertical-offset="689" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Industry.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="138" selection-end="138" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="10" column="7" selection-start="138" selection-end="138" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.47142857" vertical-offset="0" max-vertical-offset="700">
+        <state line="22" column="1" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/Movie_Ticket_Price.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="54" selection-start="862" selection-end="862" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Wacky.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="7" selection-start="135" selection-end="135" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="30" selection-start="1795" selection-end="1795" vertical-scroll-proportion="0.15611814" vertical-offset="654" max-vertical-offset="1365">
           <folding />
         </state>
       </provider>
