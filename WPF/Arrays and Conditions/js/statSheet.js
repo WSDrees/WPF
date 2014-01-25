@@ -12,11 +12,10 @@ var con = 3;                                     //Charisma
 var cha = 4;                                     //Constitution
 var wis = 5;                                     //Wisdom
 var int = 6;                                     //Intelligence
-
 var min = 0;
 var max = 1;
 
-var stats=[[50,100],[3,18],[3,18],[3,18],[3,18],[3,18],[3,18]];
+var stats=[[10,100],[3,18],[3,18],[3,18],[3,18],[3,18],[3,18]];
 
 //Monster name from user
 console.log(monsterName);

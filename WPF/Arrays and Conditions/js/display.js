@@ -4,18 +4,18 @@
 
 
 function worldDisplay(world, xx, yy, character) {
-var outpuString="";
+var outputString="";
     for(outer=0; outer<world.length; outer++){
         for(inner = 0; inner<world[outer].length; inner++){
             if(outer==yy && inner == xx){
-                outpuString += character + "\t";
+                outputString += character + "\t";
             }
             else
             {
                 outputString = outputString + world[outer][inner] + "\t";
             }
         }
-        outpuString+= "\n";     //Same as outputString=outputString + "/n;
+        outputString+= "\n";     //Same as outputString=outputString + "/n;
     }
-        return outpuString;
+        return outputString;
 }

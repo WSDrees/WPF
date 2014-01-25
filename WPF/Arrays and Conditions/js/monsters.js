@@ -2,7 +2,7 @@
  * Created by Steve Drees on 1/17/14.
  */
 
-var monsterArray=["Troll" , "Kobold" , "Merman"];
+//var monsterArray=["Troll" , "Kobold" , "Merman"];
 
 //Trolls > Forests, Kobolds > Desert, Merman > water
 
@@ -15,26 +15,22 @@ function makeMonster(landType, randomNumber)
     var KoboldPercentage = .4;
     var MermanPercentage = .3;
 
-    if(landType == "Forest" && randomNumber < TrollPercentage)
-    {
+    if(landType == String.fromCharCode(177) && randomNumber < TrollPercentage){
         return "Troll"
-    }
+    }else
+    if(landType == String.fromCharCode(178) && randomNumber < KoboldPercentage)
+    { return "Kobold" }
     else
-
-    if(landType == "Desert" && randomNumber < KoboldPercentage)
-    {
-        return "Kobold"
-    }
+    if(landType == "w" && randomNumber < MermanPercentage){ return "Merman"}
     else
-
-    if(landType == "Water" && randomNumber < MermanPercentage)
-    {
-        return "Merman"
-    }
+    if(landType == "C" && randomNumber < TrollPercentage){
+        return "Bat"
+    } else
+    if(landType == "L" && randomNumber < KoboldPercentage)
+    { return "Elemental"}
     else
-    {
-        return "";
-    }
+    if(landType == "D" && randomNumber < MermanPercentage) {return "Merman"}
+    else{ return "Worm";}
 }
 
 //Reference world position
