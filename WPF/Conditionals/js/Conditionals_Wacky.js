@@ -37,7 +37,7 @@ if(meat == "ham" || meat == "turkey"){                                          
 
 //Lettuce topping
 if ((topping1 == "yes") || (topping1 == "y")){                                          //Does the user want lettuce? (yes OR y)
-    topping1Answer = " lettuce";                                                        //User adds lettuce
+    topping1Answer = "lettuce";                                                        //User adds lettuce
 }else{
     topping1Answer = "";                                                                //User does NOT get lettuce
 }
@@ -72,7 +72,7 @@ if ((dressing1 == "yes") || (dressing1 =="y")){                                 
 
 //Oil and vinegar?
 if ((dressing2 == "yes") || (dressing2 + "y")){                                         //Does the user want oil and vinegar? (yes OR y)
-    dressing2Answer = ", oil and vinegar. ";                                            //User adds oil and vinegar
+    dressing2Answer = ", oil and vinegar";                                              //User adds oil and vinegar
 }else {
      dressing2Answer = "";                                                              //User does NOT get oil and vinegar
 }
@@ -80,4 +80,4 @@ if ((dressing2 == "yes") || (dressing2 + "y")){                                 
 
 //Output
 //You ordered a X sandwich on X bread with X, X, X, X, and X. Enjoy!
-console.log("You ordered a " +meatAnswer+ " sandwich on " + breadAnswer+topping1Answer+topping2Answer+topping3Answer+topping4Answer+dressing1Answer+dressing2Answer+ " Enjoy!");
+console.log("You ordered a " +meatAnswer+ " sandwich on " + breadAnswer+ " bread " +topping1Answer+topping2Answer+topping3Answer+topping4Answer+dressing1Answer+dressing2Answer+ ". Enjoy!");
