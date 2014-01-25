@@ -10,7 +10,7 @@ world[7]=[];
 world[8]=[];
 world[9]=[];
 
-//var forest = String.fromChafrCode(177);
+//var forest = String.fromCharCode(177);
 //var water = "w"; //String.fromCharCode(179);
 //var deserts = String.fromCharCode(178);
 //var dungeon = String.fromCharCode(176);

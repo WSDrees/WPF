@@ -14,7 +14,7 @@ console.log(worldDisplay(twoLayerWorld[currentLayer], xx, yy, character));
 //Movement
 while(whileCondition){
 
-//    console.clear();
+//  console.clear();
     console.log(twoLayerWorld[currentLayer][xx][yy]);
     console.log(worldDisplay(twoLayerWorld[currentLayer], xx, yy, character));
     console.log(makeMonster(world[xx][yy],0));
@@ -28,10 +28,6 @@ while(whileCondition){
     if((twoLayerWorld[currentLayer][yy][xx] == "Ladder" && promptedDirectionValue == "u")){currentLayer--;}
     if((twoLayerWorld[currentLayer][yy][xx] == "Dungeon" && promptedDirectionValue == "d")){currentLayer++;}
     console.log(twoLayerWorld[currentLayer][yy][xx]);
-
-
-
-
 
 //    console.log(world[xx][yy]); //This allows us to check specific values of the world
 }
