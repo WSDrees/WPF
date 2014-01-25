@@ -4,38 +4,25 @@
 //Do a math problem of user choice
 
 //Calculations
-var mathOperator1 = prompt("What mathematical operation would you like to perform? (*, /, +. -)");                      //User input's what math they want to do
-var input1 = prompt("Input your first number: ");
-var input2 = prompt("Input your second number: ");
-var input3 = "";
-var multiplication = "";
-var division = "";
-var addition = "";
-var subtraction = "";
+var mathOperator1 = parseFloat(prompt("What mathematical operation would you like to perform? (*, /, +. -)"));                      //User input's what math they want to do
+var input1 = parseFloat(prompt("Input your first number:"));
+var input2 = parseFloat(prompt("Input your second number:"));
 
 //if Multiplication
 if(mathOperator1 == "*"){
-    console.log(input1 * input2)
+    console.log("You entered " + input1+ " times " +input2+ " which equals " +(input1 * input2));
 }
 //else if Division (/)
-else if(mathOperator1 == "/"){
-    console.log(input1 / input2)
+else if((mathOperator1 == "/") && (input1 >= input2)){
+    console.log("You entered " + input1+ " divided by " +input2+ " which equals " +(input1 / input2) + " with a remainder of " +(input1%input2));
+}else if((mathOperator1 == "/") && (input1 <= input2)){
+    console.log("You entered " + input1+ " divided by " +input2+ " which equals " +(input2 / input1) + " with a remainder of " +(input2%input1));
 }
 //else if Addition (+)
 else if(mathOperator1 == "+"){
-    console.log(input1+ input2)
+    console.log("You entered " + input1+ " plus " +input2+ " which equals " +(input1 + input2));
 }
 //else if Subtraction (-)
 else if(mathOperator1 == "-"){
-    console.log(input1 - input2)
-}
-//else if Modules (%)
-//First number has to be larger than the second number in order to return remainder
-//VarX >= VarY console.log X%Y
-//else if VarX <= VarY console.log Y%X
-
-if(input1 >= input2){
-
-}else {
-
+    console.log("You entered " + input1+ " minus " +input2+ " which equals " +(input1 - input2));
 }
