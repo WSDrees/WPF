@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Conditionals_Personal.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Conditionals_Personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="57" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+            <state line="4" column="13" selection-start="95" selection-end="95" vertical-scroll-proportion="0.042979944" vertical-offset="0" max-vertical-offset="698">
               <folding>
                 <element signature="e#0#80#0" expanded="false" />
               </folding>
@@ -34,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conditionals_Personal.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Conditionals_Personal.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Personal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="130" selection-end="130" vertical-scroll-proportion="0.19650654" vertical-offset="0" max-vertical-offset="687">
+            <state line="10" column="7" selection-start="138" selection-end="138" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -597,15 +597,6 @@
         <state line="53" column="106" selection-start="4089" selection-end="4089" vertical-scroll-proportion="0.21802326" vertical-offset="645" max-vertical-offset="1350" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Personal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="57" selection-start="422" selection-end="422" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding>
-            <element signature="e#0#80#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/movement.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="27" selection-start="440" selection-end="440" vertical-scroll-proportion="0.3586498" vertical-offset="0" max-vertical-offset="711">
@@ -629,8 +620,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Personal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="130" selection-end="130" vertical-scroll-proportion="0.19650654" vertical-offset="0" max-vertical-offset="687">
+        <state line="10" column="7" selection-start="138" selection-end="138" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="13" selection-start="95" selection-end="95" vertical-scroll-proportion="0.042979944" vertical-offset="0" max-vertical-offset="698">
+          <folding>
+            <element signature="e#0#80#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
