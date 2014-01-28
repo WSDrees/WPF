@@ -3,15 +3,14 @@
  */
 
 // How much change do you have?
-//Quarters + Dimes + Nickles + Pennies
-//Every 100 cents equals have a dollar
+// Half Dollars, Quarters + Dimes + Nickles + Pennies
+var halfDollarInput = parseInt(prompt("How many Half dollars do you have?"));
+var quarterInput = parseInt(prompt("How many quarters do you have?"));
+var dimeInput = parseInt(prompt("How many dimes do you have?"));
+var nickleInput = parseInt(prompt("How many nickels do you have?"));
+var pennyInput = parseInt(prompt("How many pennies do you have?"));
 
 function change(){
-    var halfDollarInput = parseInt(prompt("How many Half dollars do you have?"));
-    var quarterInput = parseInt(prompt("How many quarters do you have?"));
-    var dimeInput = parseInt(prompt("How many dimes do you have?"));
-    var nickleInput = parseInt(prompt("How many nickels do you have?"));
-    var pennyInput = parseInt(prompt("How many pennies do you have?"));
     var halfDollar = halfDollarInput * 0.05;
     var quarter = quarterInput * 0.25;
     var dime = dimeInput * 0.10;
