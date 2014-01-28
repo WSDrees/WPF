@@ -26,7 +26,16 @@
       <file leaf-file-name="Stung!.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_worksheet/js/Stung!.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="25" selection-start="29" selection-end="29" vertical-scroll-proportion="0.021097047" vertical-offset="0" max-vertical-offset="711">
+            <state line="15" column="13" selection-start="610" selection-end="610" vertical-scroll-proportion="0.3164557" vertical-offset="0" max-vertical-offset="711">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stung!Index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions_worksheet/stung!Index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="29" selection-start="59" selection-end="59" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -530,13 +539,6 @@
         <state line="20" column="1" selection-start="569" selection-end="569" vertical-scroll-proportion="0.42194092" vertical-offset="0" max-vertical-offset="711" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_worksheet/stung!Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="29" selection-start="59" selection-end="59" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Wacky.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="38" selection-start="50" selection-end="68" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
@@ -623,13 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_worksheet/js/Circumference.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="25" selection-start="784" selection-end="784" vertical-scroll-proportion="0.25316456" vertical-offset="0" max-vertical-offset="711">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_worksheet/circumferenceIndex.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="36" selection-start="66" selection-end="66" vertical-scroll-proportion="0.06550218" vertical-offset="0" max-vertical-offset="687">
@@ -637,9 +632,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_worksheet/js/Circumference.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="25" selection-start="784" selection-end="784" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_worksheet/stung!Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="29" selection-start="59" selection-end="59" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_worksheet/js/Stung!.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="25" selection-start="29" selection-end="29" vertical-scroll-proportion="0.021097047" vertical-offset="0" max-vertical-offset="711">
+        <state line="15" column="13" selection-start="610" selection-end="610" vertical-scroll-proportion="0.3164557" vertical-offset="0" max-vertical-offset="711">
           <folding />
         </state>
       </provider>
