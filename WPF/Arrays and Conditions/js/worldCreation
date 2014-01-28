@@ -149,9 +149,9 @@ function DungeonGenerator(worldArray){
         //console.log(completedWorld[0][i][j]);
 
         if(worldArray[i][j] == "Dungeon" && firstVsSecondDungeonInstance == true){
-            dungeonX1 = i;
-            dungeonY1 = j;
-            firstVsSecondDungeonInstance = false;
+            dungeonX1 = i;;
+            firstVsSecondDungeonInstance
+            dungeonY1 = j = false;
         } else if(worldArray[i][j] == "Dungeon"){
             dungeonX2 = i;
             dungeonY2 = j;

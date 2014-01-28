@@ -26,7 +26,7 @@
       <file leaf-file-name="Conditionals_Personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="13" selection-start="95" selection-end="95" vertical-scroll-proportion="0.042979944" vertical-offset="0" max-vertical-offset="698">
+            <state line="6" column="61" selection-start="175" selection-end="175" vertical-scroll-proportion="0.08595989" vertical-offset="0" max-vertical-offset="698">
               <folding>
                 <element signature="e#0#80#0" expanded="false" />
               </folding>
@@ -38,6 +38,15 @@
         <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Personal.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="10" column="7" selection-start="138" selection-end="138" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="worldCreation" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/worldCreation">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="41" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="1335" max-vertical-offset="3030">
               <folding />
             </state>
           </provider>
@@ -82,20 +91,25 @@
         <option value="$PROJECT_DIR$/Conditionals_worksheet/Index.html" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/js/Movie_Ticket_Price.js" />
         <option value="$PROJECT_DIR$/Conditionals/Conditionals_Industry.html" />
-        <option value="$PROJECT_DIR$/Conditionals/Conditionals_Wacky.html" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/js/monsters.js" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/index.html" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/js/display.js" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/js/statSheet.js" />
         <option value="$PROJECT_DIR$/Conditionals/js/Conditionals_Industry.js" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/js/movement.js" />
-        <option value="$PROJECT_DIR$/Arrays and Conditions/js/worldCreation" />
         <option value="$PROJECT_DIR$/Conditionals/js/Conditionals_Wacky.js" />
+        <option value="$PROJECT_DIR$/Functions_worksheet/js/Circumference.js" />
+        <option value="$PROJECT_DIR$/Functions_worksheet/js/Stung!.js" />
+        <option value="$PROJECT_DIR$/Functions_worksheet/stung!Index.html" />
+        <option value="$PROJECT_DIR$/Conditionals/Conditionals_Wacky.html" />
+        <option value="$PROJECT_DIR$/Functions_worksheet/circumferenceIndex.html" />
+        <option value="$PROJECT_DIR$/Arrays and Conditions/js/worldCreation" />
         <option value="$PROJECT_DIR$/Conditionals/js/Conditionals_Personal.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="3" />
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="808" />
@@ -223,6 +237,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Arrays and Conditions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Arrays and Conditions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -320,7 +366,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="808" extended-state="6" />
+    <frame x="3" y="22" width="1440" height="808" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -361,26 +407,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Expressions_worksheet/js/Discounts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="360" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_worksheet/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="4" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_worksheet/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_worksheet/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Misc/js/Class2_GameArray.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="150" column="1" selection-start="3284" selection-end="3284" vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="2520" />
@@ -546,19 +572,9 @@
         <state line="19" column="24" selection-start="869" selection-end="869" vertical-scroll-proportion="0.38990182" vertical-offset="7" max-vertical-offset="720" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="249" selection-end="249" vertical-scroll-proportion="0.2394775" vertical-offset="0" max-vertical-offset="689" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Industry.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="7" selection-start="138" selection-end="138" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Industry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/Movie_Ticket_Price.js">
@@ -566,47 +582,68 @@
         <state line="18" column="54" selection-start="862" selection-end="862" vertical-scroll-proportion="0.37868163" vertical-offset="0" max-vertical-offset="713" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/statSheet.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1020">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/treasure.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1455">
-          <folding />
-        </state>
+        <state line="8" column="14" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1455" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/worldCreation">
+    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/display.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="0" selection-start="2728" selection-end="5200" vertical-scroll-proportion="0.0" vertical-offset="1875" max-vertical-offset="3030">
+        <state line="20" column="1" selection-start="569" selection-end="569" vertical-scroll-proportion="0.42194092" vertical-offset="0" max-vertical-offset="711" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_worksheet/stung!Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="29" selection-start="59" selection-end="59" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Wacky.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="128" selection-end="135" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240" />
+        <state line="3" column="38" selection-start="50" selection-end="68" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Wacky.js">
+    <entry file="file://$PROJECT_DIR$/Functions_worksheet/circumferenceIndex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="106" selection-start="4089" selection-end="4089" vertical-scroll-proportion="0.21802326" vertical-offset="645" max-vertical-offset="1350" />
+        <state line="3" column="36" selection-start="66" selection-end="66" vertical-scroll-proportion="0.067771085" vertical-offset="0" max-vertical-offset="664">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_worksheet/js/Stung!.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="711">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_worksheet/js/Circumference.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="711">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/statSheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="23" selection-start="880" selection-end="880" vertical-scroll-proportion="0.5274262" vertical-offset="0" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="249" selection-end="249" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/movement.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="27" selection-start="440" selection-end="440" vertical-scroll-proportion="0.3586498" vertical-offset="0" max-vertical-offset="711">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/display.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="1" selection-start="569" selection-end="569" vertical-scroll-proportion="0.42194092" vertical-offset="0" max-vertical-offset="711">
           <folding />
         </state>
       </provider>
@@ -618,6 +655,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="106" selection-start="4089" selection-end="4089" vertical-scroll-proportion="0.21940929" vertical-offset="639" max-vertical-offset="1350">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="1" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.47277936" vertical-offset="0" max-vertical-offset="698">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Personal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="7" selection-start="138" selection-end="138" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
@@ -625,9 +676,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/worldCreation">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="41" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="1335" max-vertical-offset="3030">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="95" selection-end="95" vertical-scroll-proportion="0.042979944" vertical-offset="0" max-vertical-offset="698">
+        <state line="6" column="61" selection-start="175" selection-end="175" vertical-scroll-proportion="0.08595989" vertical-offset="0" max-vertical-offset="698">
           <folding>
             <element signature="e#0#80#0" expanded="false" />
           </folding>
