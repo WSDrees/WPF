@@ -53,10 +53,8 @@
       <file leaf-file-name="Functions_Wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="77" selection-end="77" vertical-scroll-proportion="0.10548523" vertical-offset="0" max-vertical-offset="711">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="9" column="4" selection-start="210" selection-end="210" vertical-scroll-proportion="0.18987341" vertical-offset="0" max-vertical-offset="711">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -117,9 +115,9 @@
         <option value="$PROJECT_DIR$/Functions/Functions_Wacky.html" />
         <option value="$PROJECT_DIR$/Functions/Functions_Personal.html" />
         <option value="$PROJECT_DIR$/Functions/Functions_Industry.html" />
-        <option value="$PROJECT_DIR$/Functions/js/Functions_Wacky.js" />
         <option value="$PROJECT_DIR$/Functions/js/Functions_Industry.js" />
         <option value="$PROJECT_DIR$/Functions/js/Functions_Personal.js" />
+        <option value="$PROJECT_DIR$/Functions/js/Functions_Wacky.js" />
       </list>
     </option>
   </component>
@@ -703,10 +701,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="77" selection-end="77" vertical-scroll-proportion="0.10548523" vertical-offset="0" max-vertical-offset="711">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="9" column="4" selection-start="210" selection-end="210" vertical-scroll-proportion="0.18987341" vertical-offset="0" max-vertical-offset="711">
+          <folding />
         </state>
       </provider>
     </entry>
