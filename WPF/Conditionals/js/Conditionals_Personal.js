@@ -11,5 +11,5 @@ if(userAge >= 21){                                                              
 }
 //Evaluate to make sure user is old enough to gamble
 //If NOT inform user they are too young to enter
-(userAge >=18) ? console.log("Since you are " +userAge+ " you are able to gamble.") : console.log("Sorry kid you are too young to enter.");
+else (userAge >=18) ? console.log("Since you are " +userAge+ " you are able to gamble.") : console.log("Sorry kid you are too young to enter.");
 

@@ -23,30 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Conditionals_Personal.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Personal.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="61" selection-start="175" selection-end="175" vertical-scroll-proportion="0.08595989" vertical-offset="0" max-vertical-offset="698">
-              <folding>
-                <element signature="e#0#80#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Conditionals_Personal.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Personal.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="7" selection-start="138" selection-end="138" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="worldCreation" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="worldCreation" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/worldCreation">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="41" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="1335" max-vertical-offset="3030">
+            <state line="15" column="41" selection-start="318" selection-end="318" vertical-scroll-proportion="-1.5611814" vertical-offset="1335" max-vertical-offset="3030">
               <folding />
             </state>
           </provider>
@@ -669,26 +649,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="766" selection-end="766" vertical-scroll-proportion="0.27936962" vertical-offset="0" max-vertical-offset="698">
+          <folding>
+            <element signature="e#0#80#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Personal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="138" selection-end="138" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+        <state line="10" column="7" selection-start="138" selection-end="138" vertical-scroll-proportion="0.2183406" vertical-offset="0" max-vertical-offset="687">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/worldCreation">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="41" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="1335" max-vertical-offset="3030">
+        <state line="15" column="41" selection-start="318" selection-end="318" vertical-scroll-proportion="-1.5611814" vertical-offset="1335" max-vertical-offset="3030">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Personal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="61" selection-start="175" selection-end="175" vertical-scroll-proportion="0.08595989" vertical-offset="0" max-vertical-offset="698">
-          <folding>
-            <element signature="e#0#80#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
