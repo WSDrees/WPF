@@ -168,7 +168,7 @@ function DungeonGenerator(worldArray){
     
         for(j = 0; j < worldArray[i].length; j++){
         var randomWorldSeed = Math.random();                                //Random value
-        //Cave (1/3), lave (1/3), dirt (1/3), ladder on dungeon squares
+        //Cave (1/3), lava (1/3), dirt (1/3), ladder on dungeon squares
             if ((i == dungeonX1 && j == dungeonY1)
                 ||
                 (i == dungeonX2 && j == dungeonY2)){

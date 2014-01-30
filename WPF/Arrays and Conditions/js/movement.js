@@ -14,10 +14,11 @@ console.log(worldDisplay(twoLayerWorld[currentLayer], xx, yy, character));
 //Movement
 while(whileCondition){
 
-//  console.clear();
+    console.clear();
+//    console.log(player);
     console.log(twoLayerWorld[currentLayer][xx][yy]);
     console.log(worldDisplay(twoLayerWorld[currentLayer], xx, yy, character));
-    console.log(makeMonster(world[xx][yy],0));
+//    console.log(makeMonster(world[xx][yy],0));
 
     var promptedDirectionValue = prompt("Direction? (n, s, w, e, u, d, f)").toLowerCase();
     if(promptedDirectionValue == "n"){yy--;}

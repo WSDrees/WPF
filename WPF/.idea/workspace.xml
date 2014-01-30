@@ -26,8 +26,10 @@
       <file leaf-file-name="Functions_Industry.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="3" selection-start="164" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="420">
-              <folding />
+            <state line="4" column="25" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,25 +37,18 @@
       <file leaf-file-name="Functions_Personal.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="16" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="300">
-              <folding />
+            <state line="9" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Functions_Wacky.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Functions_Wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="44" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Functions_Wacky.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functions/Functions_Wacky.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="49" selection-start="79" selection-end="79" vertical-scroll-proportion="0.06531204" vertical-offset="0" max-vertical-offset="689">
+            <state line="19" column="67" selection-start="809" selection-end="809" vertical-scroll-proportion="0.3997195" vertical-offset="0" max-vertical-offset="713">
               <folding />
             </state>
           </provider>
@@ -98,31 +93,34 @@
         <option value="$PROJECT_DIR$/Conditionals_worksheet/Index.html" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/js/Movie_Ticket_Price.js" />
         <option value="$PROJECT_DIR$/Conditionals/Conditionals_Industry.html" />
-        <option value="$PROJECT_DIR$/Arrays and Conditions/js/monsters.js" />
-        <option value="$PROJECT_DIR$/Arrays and Conditions/index.html" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/js/display.js" />
         <option value="$PROJECT_DIR$/Arrays and Conditions/js/statSheet.js" />
         <option value="$PROJECT_DIR$/Conditionals/js/Conditionals_Industry.js" />
-        <option value="$PROJECT_DIR$/Arrays and Conditions/js/movement.js" />
         <option value="$PROJECT_DIR$/Conditionals/js/Conditionals_Wacky.js" />
         <option value="$PROJECT_DIR$/Functions_worksheet/stung!Index.html" />
         <option value="$PROJECT_DIR$/Conditionals/Conditionals_Wacky.html" />
         <option value="$PROJECT_DIR$/Functions_worksheet/circumferenceIndex.html" />
-        <option value="$PROJECT_DIR$/Arrays and Conditions/js/worldCreation" />
         <option value="$PROJECT_DIR$/Conditionals/js/Conditionals_Personal.js" />
         <option value="$PROJECT_DIR$/Functions_worksheet/js/Circumference.js" />
         <option value="$PROJECT_DIR$/Functions_worksheet/js/Stung!.js" />
         <option value="$PROJECT_DIR$/Functions/Functions_Wacky.html" />
         <option value="$PROJECT_DIR$/Functions/Functions_Personal.html" />
         <option value="$PROJECT_DIR$/Functions/Functions_Industry.html" />
+        <option value="$PROJECT_DIR$/Arrays and Conditions/js/monsters.js" />
+        <option value="$PROJECT_DIR$/Arrays and Conditions/index.html" />
+        <option value="$PROJECT_DIR$/Arrays and Conditions/js/player.js" />
+        <option value="$PROJECT_DIR$/Arrays and Conditions/js/Combat.js" />
+        <option value="$PROJECT_DIR$/Arrays and Conditions/js/movement.js" />
         <option value="$PROJECT_DIR$/Functions/js/Functions_Industry.js" />
         <option value="$PROJECT_DIR$/Functions/js/Functions_Personal.js" />
         <option value="$PROJECT_DIR$/Functions/js/Functions_Wacky.js" />
+        <option value="$PROJECT_DIR$/Arrays and Conditions/js/worldCreation" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="-11" />
+    <option name="y" value="71" />
     <option name="width" value="1438" />
     <option name="height" value="810" />
   </component>
@@ -250,12 +248,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Arrays and Conditions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Arrays and Conditions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -346,7 +376,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1438" height="810" extended-state="6" />
+    <frame x="-11" y="71" width="1438" height="810" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -387,16 +417,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Expressions_worksheet/js/Slice_of_Pie1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="43" selection-end="658" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_worksheet/js/Slice_of_Pie2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="42" selection-end="612" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Misc/Intro to Variables/ClassExercise1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
@@ -522,24 +542,9 @@
         <state line="8" column="14" selection-start="155" selection-end="155" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1455" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/display.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="1" selection-start="569" selection-end="569" vertical-scroll-proportion="0.42194092" vertical-offset="0" max-vertical-offset="711" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/Conditionals_Wacky.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="38" selection-start="50" selection-end="68" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="249" selection-end="249" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="345" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/monsters.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="24" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.6624473" vertical-offset="9" max-vertical-offset="720" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals/js/Conditionals_Wacky.js">
@@ -597,55 +602,102 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/Functions_Industry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="41" selection-start="71" selection-end="71" vertical-scroll-proportion="0.06550218" vertical-offset="0" max-vertical-offset="687" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/Functions_Personal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="41" selection-start="71" selection-end="71" vertical-scroll-proportion="0.06550218" vertical-offset="0" max-vertical-offset="687" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/worldCreation">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0" vertical-offset="1389" max-vertical-offset="3030" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Industry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="3" selection-start="164" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/statSheet.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="23" selection-start="880" selection-end="880" vertical-scroll-proportion="0.5274262" vertical-offset="0" max-vertical-offset="1020" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Personal.js">
+    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
+        <state line="17" column="7" selection-start="341" selection-end="341" vertical-scroll-proportion="0.3701016" vertical-offset="0" max-vertical-offset="689">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/display.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="569" selection-end="569" vertical-scroll-proportion="0.42075735" vertical-offset="0" max-vertical-offset="713">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/movement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="27" selection-start="440" selection-end="440" vertical-scroll-proportion="0.3586498" vertical-offset="0" max-vertical-offset="711" />
+        <state line="30" column="53" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.63113606" vertical-offset="0" max-vertical-offset="713">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Wacky.js">
+    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/combat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="44" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+        <state line="31" column="0" selection-start="629" selection-end="629" vertical-scroll-proportion="0.37868163" vertical-offset="195" max-vertical-offset="1185">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="749" selection-end="975" vertical-scroll-proportion="0.032258064" vertical-offset="307" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="25" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions/Functions_Wacky.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="49" selection-start="79" selection-end="79" vertical-scroll-proportion="0.06531204" vertical-offset="0" max-vertical-offset="689">
+        <state line="3" column="49" selection-start="79" selection-end="79" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/worldCreation">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="170" column="26" selection-start="4268" selection-end="4268" vertical-scroll-proportion="0.3043478" vertical-offset="2340" max-vertical-offset="3030">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/monsters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="55" selection-start="889" selection-end="889" vertical-scroll-proportion="0.021037867" vertical-offset="465" max-vertical-offset="1215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/Functions_Personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="41" selection-start="71" selection-end="71" vertical-scroll-proportion="0.06531204" vertical-offset="0" max-vertical-offset="689">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/Functions_Industry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="41" selection-start="71" selection-end="71" vertical-scroll-proportion="0.06531204" vertical-offset="0" max-vertical-offset="689">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="67" selection-start="809" selection-end="809" vertical-scroll-proportion="0.3997195" vertical-offset="0" max-vertical-offset="713">
           <folding />
         </state>
       </provider>
