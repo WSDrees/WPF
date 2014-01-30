@@ -15,15 +15,15 @@ var exerciseType = "";
 var pace = "";
 
 //Determine which function to call
-if(exercise == "w"){
-    walking();                      //call walking function
-} else if(exercise == "r"){
-    running();                      //call running function
-} else if(exercise == "b"){
-    biking();                       //call biking function
-} else if(exercise == "s"){
-    swimming();                     //call swimming function
-}
+    if(exercise == "w"){
+        walking();                      //call walking function
+    } else if(exercise == "r"){
+        running();                      //call running function
+    } else if(exercise == "b"){
+        biking();                       //call biking function
+    } else if(exercise == "s"){
+        swimming();                     //call swimming function
+    }
 
 function walking(){
 //Walking 3 miles per hour pace (20 min/mile pace).

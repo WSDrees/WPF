@@ -34,19 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Functions_Wacky.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Wacky.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="67" selection-start="809" selection-end="809" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Functions_Personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="96" selection-start="3822" selection-end="3822" vertical-scroll-proportion="2.1304348" vertical-offset="0" max-vertical-offset="1680">
+            <state line="25" column="5" selection-start="991" selection-end="991" vertical-scroll-proportion="0.48387095" vertical-offset="0" max-vertical-offset="1680">
               <folding>
                 <element signature="n#!!doc;n#workout#0" expanded="false" />
               </folding>
@@ -257,38 +248,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Functions_worksheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Functions_worksheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -717,22 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Wacky.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="67" selection-start="809" selection-end="809" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Industry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays and Conditions/js/monsters.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="55" selection-start="887" selection-end="887" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1185">
@@ -747,13 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/Functions_Personal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="41" selection-start="71" selection-end="71" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_worksheet/js/Circumference.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="25" selection-start="784" selection-end="784" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
@@ -761,9 +697,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="67" selection-start="809" selection-end="809" vertical-scroll-proportion="0.3997195" vertical-offset="0" max-vertical-offset="713">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/Functions_Personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="41" selection-start="71" selection-end="71" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="96" selection-start="3822" selection-end="3822" vertical-scroll-proportion="2.1304348" vertical-offset="0" max-vertical-offset="1680">
+        <state line="25" column="5" selection-start="991" selection-end="991" vertical-scroll-proportion="0.48387095" vertical-offset="0" max-vertical-offset="1680">
           <folding>
             <element signature="n#!!doc;n#workout#0" expanded="false" />
           </folding>
