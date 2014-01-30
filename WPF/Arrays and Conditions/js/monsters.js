@@ -25,8 +25,6 @@ function craftMonster(monsterArray){
 function makeMonster(landType, randomNumber)
 {
 
-
-
 //Takes in land type and a random number and returns a monster (maybe)
 
     var monster =
