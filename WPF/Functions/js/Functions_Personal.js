@@ -14,14 +14,15 @@ var caloriesBurned = "";
 var exerciseType = "";
 var pace = "";
 
+//Determine which function to call
 if(exercise == "w"){
-    walking();
+    walking();                      //call walking function
 } else if(exercise == "r"){
-    running();
+    running();                      //call running function
 } else if(exercise == "b"){
-    biking();
+    biking();                       //call biking function
 } else if(exercise == "s"){
-    swimming();
+    swimming();                     //call swimming function
 }
 
 function walking(){
@@ -30,14 +31,14 @@ function walking(){
 //Walking 4 miles per hour pace (15 min/mile pace)
 //2.7 x your weight in pounds x 1 hour
     exerciseType =  "walking";
-    var wPace = prompt("What was your pace? (3 or 4 min/mile?)");
+    var wPace = prompt("What was your pace? (20 or 15 min/mile?)");
     var wPace1 = 1.6;
     var wPace2 = 2.7;
 
-    if(wPace == "3"){
-       caloriesBurned = wPace1 * weight * time;
-    } else if(wPace == "4"){
-       caloriesBurned = wPace2 * weight * time;
+    if(wPace == "20"){
+       caloriesBurned = wPace1 * weight * time;         //Calories burned calculation for 20 min/mile
+    } else if(wPace == "15"){
+       caloriesBurned = wPace2 * weight * time;         //Calories burned calculation for 15 min/mile
     }
 
 }
@@ -56,11 +57,11 @@ function running(){
     var rPace3 = 6;
 
     if(rPace == "12"){
-        caloriesBurned = rPace1 * weight * time;
+        caloriesBurned = rPace1 * weight * time;        //Calories burned calculation for 12 min/mile
     } else if(rPace == "10"){
-        caloriesBurned = rPace2 * weight * time;
+        caloriesBurned = rPace2 * weight * time;        //Calories burned calculation for 10 min/mile
     } else if(rPace == "8"){
-        caloriesBurned = rPace3 * weight * time;
+        caloriesBurned = rPace3 * weight * time;        //Calories burned calculation for 8 min/mile
     }
 }
 
@@ -69,20 +70,20 @@ function biking(){
 //1.5 x your weight in pounds x 1 hour
 //Biking 10 miles per hour pace (6.0 min/mile pace)
 //2.0 x your weight in pounds x 1 hour
-//Biking	15 miles per hour pace (4.0 min/mile pace)
+//Biking 15 miles per hour pace (4.0 min/mile pace)
 //3.9 x your weight in pounds x 1 hour
     exerciseType =  "biking";
-    var bPace = prompt("What was your pace? (6, 10, or 15 min/mile");
+    var bPace = prompt("What was your pace? (6, 10, or 15 mph?");
     var bPace1 = 1.5;
     var bPace2 = 2;
     var bPace3 = 3.9;
 
     if(bPace == "6"){
-        caloriesBurned = bPace1 * weight * time;
+        caloriesBurned = bPace1 * weight * time;        //Calories burned calculation for 6 min/mile
     } else if(bPace == "10"){
-        caloriesBurned = bPace2 * weight * time;
+        caloriesBurned = bPace2 * weight * time;        //Calories burned calculation for 10 min/mile
     } else if(bPace == "15"){
-        caloriesBurned = bPace3 * weight * time;
+        caloriesBurned = bPace3 * weight * time;        //Calories burned calculation for 15 min/mile
     }
 }
 
@@ -95,9 +96,9 @@ function swimming(){
     var sPace2 = 4.8;
 
     if(sPace == "20"){
-        caloriesBurned = sPace1 * weight * time;
+        caloriesBurned = sPace1 * weight * time;        //Calories burned calculation for 20 yds/mile
     } else if(sPace == "40"){
-        caloriesBurned = sPace2 * weight * time;
+        caloriesBurned = sPace2 * weight * time;        //Calories burned calculation for 20 yds/mile
     }
 }
 
