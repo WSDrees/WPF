@@ -5,14 +5,14 @@
 //Car model, gas type and mpg
 
 //Car A, B, C
-var makeOfCar = prompt("Choose a type of car: \nF = Ford\n H = Honda\n T = Toyota");
-var carSize = prompt("Choose a car: \nS = Small\nM = Mid-size\nT = Truck\nS = SUV");
-var gasType = prompt("Choose a type of gas: \nR = Regular\nM = Mid\nP = Premium\nD = Diesel");
-var whileCondition = true;
-var smallCar = 11;                                  //Average gas tank size of a small car
-var midSizeCar = 15;                                //Average gas tank size of a mid size car
-var truck = 22.5;                                   //Average gas tank size of a truck
-var suv = 22.5;                                     //Average gas tank size of a SUV
+var carType = prompt("Choose a car: \nS = Small\nM = Mid-size\nT = Truck\nS = SUV").toUpperCase();
+var gasType = prompt("Choose a type of gas: \nR = Regular\nM = Mid\nP = Premium\nD = Diesel").toUpperCase();
+
+//Average size found via Google
+var smallCarGasTank = 11;                                   //Average gas tank size of a small car
+var midSizeCarGasTank = 15;                                 //Average gas tank size of a mid size car
+var truckGasTank = 22.5;                                    //Average gas tank size of a truck
+var suvGasTank = 22.5;                                      //Average gas tank size of a SUV
 
 //Information from fuelgagereport.com on 1/30/14
 //Current Avg. 	Reg: $3.275 	Mid: $3.456 	Premium $3.624 	    Diesel: $3.890
@@ -23,10 +23,26 @@ var gasPrem = 3.624;
 var diesel = 3.89;
 
 
-//Miles per gallon
-var mpgSmallCar = "";
-var mpgMidCar = "";
-var mpgTruck = "";
-var mpgSUV = "";
-//Gas tank size
+function gasTankSize(smallCarGasTank, midSizeCarGasTank, truckGasTank, suvGasTank){
+    if(carType == "S"){
+        return smallCarGasTank;
+    }else if(carType == "M"){
+        return midSizeCarGasTank;
+    }else if(carType == "T"){
+        return truckGasTank;
+    }else if(carType == "S"){
+        return suvGasTank;
+    }
+}
 
+function gasRate(gasReg, gasMid, gasPrem, diesel){
+    if(gasType == "R"){
+        return gasReg;
+    }else if(gasType =="M"){
+        return gasMid;
+    }else if(gasType =="P"){
+        return gasPrem;
+    }else if(gasType == "D"){
+        return diesel;
+    }
+}
