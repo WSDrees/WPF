@@ -46,10 +46,19 @@
       <file leaf-file-name="Functions_Personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="38" selection-start="1595" selection-end="1595" vertical-scroll-proportion="0.9887798" vertical-offset="0" max-vertical-offset="1680">
+            <state line="104" column="21" selection-start="3202" selection-end="3202" vertical-scroll-proportion="0.8043478" vertical-offset="975" max-vertical-offset="1665">
               <folding>
                 <element signature="n#!!doc;n#workout#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Circumference.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions_worksheet/js/Circumference.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="25" selection-start="784" selection-end="784" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -248,6 +257,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions_worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions_worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -617,11 +658,6 @@
         <state line="3" column="36" selection-start="66" selection-end="66" vertical-scroll-proportion="0.06550218" vertical-offset="0" max-vertical-offset="687" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_worksheet/js/Circumference.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="25" selection-start="784" selection-end="784" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_worksheet/stung!Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="7" selection-start="123" selection-end="123" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240" />
@@ -718,9 +754,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_worksheet/js/Circumference.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="25" selection-start="784" selection-end="784" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Functions/js/Functions_Personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="38" selection-start="1595" selection-end="1595" vertical-scroll-proportion="0.9887798" vertical-offset="0" max-vertical-offset="1680">
+        <state line="104" column="21" selection-start="3202" selection-end="3202" vertical-scroll-proportion="0.8043478" vertical-offset="975" max-vertical-offset="1665">
           <folding>
             <element signature="n#!!doc;n#workout#0" expanded="false" />
           </folding>
