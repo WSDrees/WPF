@@ -7,9 +7,9 @@
 //Pace, and time
 //Weight
 function workout(){
-var weight = parseFloat(prompt("How much do you weigh? (In pounds)"));
-var exercise = prompt("What exercise did you do today? (w = walk, r = run, b = bike, s = swim)").toLowerCase();
-var time = parseFloat(prompt("How long did you work out for? (1 = 1 hour, .75 = 45 minutes, .5 = 30 minutes, .25 = 15 minutes)")).toFixed(2);
+var weight = parseFloat(prompt("How much do you weigh? \n(In pounds)"));
+var exercise = prompt("What exercise did you do today? \n(w = walk, r = run, b = bike, s = swim)").toLowerCase();
+var time = parseFloat(prompt("How long did you work out for? \n(1 = 1 hour, .75 = 45 minutes, .5 = 30 minutes, .25 = 15 minutes)")).toFixed(2);
 var caloriesBurned = "";
 var exerciseType = "";
 var pace = "";
