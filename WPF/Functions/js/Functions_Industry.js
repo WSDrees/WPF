@@ -9,7 +9,6 @@ function totalMiles(){
     var mpg4 = parseFloat(prompt("How many miles did you get on your fourth tank of gas?"));
     var mpg5 = parseFloat(prompt("How many miles did you get on your fifth tank of gas?"));
     console.log("You average " +(mpg1+mpg2+mpg3+mpg4+mpg5)/5+ " mpg.");
-
 }
 
 totalMiles();

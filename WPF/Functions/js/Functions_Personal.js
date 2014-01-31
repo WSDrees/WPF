@@ -4,8 +4,8 @@
 
 //How many calories burned
 //Did you walk, run, bike, swim?
-//Pace, and time
 //Weight
+//Time
 function workout(){
 var weight = parseFloat(prompt("How much do you weigh? \n(In pounds)"));
 var exercise = prompt("What exercise did you do today? \n(w = walk, r = run, b = bike, s = swim)").toLowerCase();
